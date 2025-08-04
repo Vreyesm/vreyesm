@@ -34,8 +34,19 @@
 - **2020-July 2025**: Haulmer, Inc. - Software Engineer & DevOps
   - Payment processing systems (300k+ daily transactions)
   - Cryptographic key distribution for POS devices
-  - PCI DSS and PCI PIN compliance. 
-  - [Legacy Github account](https://github.com/vreyes-haulmer)
+  - PCI DSS and PCI PIN compliance
+
+## 🏢 GitHub Work Profiles
+
+<div align="center">
+
+[![Baubap](https://img.shields.io/badge/-Baubap-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baubap)
+[![Haulmer](https://img.shields.io/badge/-Haulmer-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haulmer)
+
+</div>
+
+- **[Baubap](https://github.com/vreyes-baubap)** - Current organization working on financial technology solutions
+- **[Haulmer (Legacy)](https://github.com/vreyes-haulmer)** - Previous work on payment processing and fintech infrastructure
 
 ## 🤝 Let's Connect
 
