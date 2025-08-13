@@ -1,4 +1,4 @@
-# Hi there, I'm Victor! 👋
+# Hi there, I'm [Victor](https://v-reyes.com)! 👋
 
 <div align="center">
   
@@ -61,8 +61,6 @@
 ---
 
 <div align="center">
-  
-**"Building technology bridges to financial freedom"** 🌉✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vreyesm&color=blue&style=flat-square)
 
