@@ -1,8 +1,8 @@
 # Hi there, I'm Victor! 👋
 
-<div align="center">
+[<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Baubap;Building+bridges+to+financial+freedom;Technology+for+financial+inclusion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Baubap)](https://git.io/typing-svg)
 
 </div>
 
