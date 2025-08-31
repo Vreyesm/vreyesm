@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **[Baubap](https://github.com/baubap)** - Building bridges to people's financial freedom through technology
+- 🔭 Currently working at **[Baubap](https://github.com/baubap)**,
 - 💻 Software Engineer specializing in backend systems and DevOps
 - 🎓 Computer Engineering graduate from Universidad de Talca, Chile
 - 🔐 Experience with secure payment systems and PCI compliance
