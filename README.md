@@ -48,6 +48,16 @@
 - **[Baubap](https://github.com/vreyes-baubap)** - Current organization working on financial technology solutions
 - **[Haulmer (Legacy)](https://github.com/vreyes-haulmer)** - Previous work on payment processing and fintech infrastructure
 
+## 📦 Personal Projects
+
+<div align="center">
+
+[![v-reyesm](https://img.shields.io/badge/-Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v-reyesm)
+
+</div>
+
+Visit **[v-reyesm](https://github.com/v-reyesm)** to explore my open-source and personal projects.
+
 ## 🤝 Let's Connect
 
 <div align="center">
