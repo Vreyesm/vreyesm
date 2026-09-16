@@ -29,7 +29,7 @@
 
 ## 💼 Work Experience
 
-- **Current**: [Baubap](https://github.com/baubap) - Software Engineer
+- **July 2025 - June 2026**: [Baubap](https://github.com/baubap) - Software Engineer
   - Developing technology solutions for financial inclusion and accessibility
 - **2020-July 2025**: Haulmer, Inc. - Software Engineer & DevOps
   - Payment processing systems (300k+ daily transactions)
