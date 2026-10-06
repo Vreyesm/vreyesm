@@ -9,6 +9,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently looking for job oportunities,
+- 📄 My CV: [CV / Resume repository](https://github.com/Vreyesm/Resume-esp)
 - 💻 Software Engineer specializing in backend systems and DevOps
 - 🎓 Computer Engineering graduate from Universidad de Talca, Chile
 - 🔐 Experience with secure payment systems and PCI compliance
