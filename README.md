@@ -21,7 +21,7 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](assets/badges/azure.svg)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -56,12 +56,12 @@ I have two orgs to separate the projects besides the personal GitHub repositorie
 
 <div align="center">
 
-[![Baubap](https://img.shields.io/badge/-Baubap-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baubap)
-[![Haulmer](https://img.shields.io/badge/-Haulmer-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haulmer)
+[![Baubap](https://img.shields.io/badge/-Baubap-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vreyes-baubap)
+[![Haulmer](https://img.shields.io/badge/-Haulmer-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vreyes-haulmer)
 
 </div>
 
-- **[Baubap](https://github.com/vreyes-baubap)** - Current organization working on financial technology solutions
+- **[Baubap](https://github.com/vreyes-baubap)** - Previous work on financial technology solutions
 - **[Haulmer (Legacy)](https://github.com/vreyes-haulmer)** - Previous work on payment processing and fintech infrastructure
 
 
@@ -69,7 +69,7 @@ I have two orgs to separate the projects besides the personal GitHub repositorie
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-reyes)
+[![LinkedIn](assets/badges/linkedin.svg)](https://linkedin.com/in/victor-reyes)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vreyesm)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.reyes.medina@gmail.com)
 
