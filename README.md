@@ -1,4 +1,4 @@
-# Hi there, I'm [Victor](https://v-reyes.com)! 👋
+# Hi there, I'm [Victor](https://home.v-reyes.com)! 👋
 
 <div align="center">
   
@@ -36,6 +36,22 @@
   - Cryptographic key distribution for POS devices
   - PCI DSS and PCI PIN compliance
 
+
+## 📦 Personal Projects
+
+<!--<div align="center">
+
+[![v-reyesm](https://img.shields.io/badge/-Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v-reyesm)
+
+</div>-->
+
+You can visit [sueldospublicos.cl](sueldospublicos.cl) and AI-slop made site to help teachers and other education workers to calculate/help them review their payroll settlement (_liquidación de sueldo_). _source code [here](https://github.com/ReyesValdesLabs/sueldos-publicos)_
+
+I have two orgs to separate the projects besides the personal GitHub repositories:
+ - **[v-reyesm](https://github.com/v-reyesm)**
+ - **[ReyesValdesLabs](https://github.com/ReyesValdesLabs)**
+
+
 ## 🏢 GitHub Work Profiles
 
 <div align="center">
@@ -48,15 +64,6 @@
 - **[Baubap](https://github.com/vreyes-baubap)** - Current organization working on financial technology solutions
 - **[Haulmer (Legacy)](https://github.com/vreyes-haulmer)** - Previous work on payment processing and fintech infrastructure
 
-## 📦 Personal Projects
-
-<div align="center">
-
-[![v-reyesm](https://img.shields.io/badge/-Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v-reyesm)
-
-</div>
-
-Visit **[v-reyesm](https://github.com/v-reyesm)** to explore my open-source and personal projects.
 
 ## 🤝 Let's Connect
 
